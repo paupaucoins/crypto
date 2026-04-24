@@ -3,7 +3,7 @@
       "address": "eH9dzEbXBvUspuvMZgapANRYmcW625mpzkf1Lhz2txC",
       "symbol": "PAU",
       "name": "Paupau",
-      "decimals": 0,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/paupaucoins/crypto/refs/heads/main/logo.png",
       "tags": [
         "social-token",
