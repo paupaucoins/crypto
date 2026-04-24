@@ -1,0 +1,26 @@
+    {
+      "chainId": 101,
+      "address": "eH9dzEbXBvUspuvMZgapANRYmcW625mpzkf1Lhz2txC",
+      "symbol": "PAU",
+      "name": "Paupau",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/paupaucoins/crypto/refs/heads/main/logo.png",
+      "tags": [
+        "social-token",
+        "PAU",
+        "utility-token",
+         "NFT",
+        "Metaverse",
+        "ethereum",
+        "solana",
+        "bitcoin"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6jvvefv6Q",
+        "twitter": "https://x.com/PAUPAUCOIN",
+        "instagram": "https://www.instagram.com/paupaucoin?igsh=MWhmMHZxN29leDQ5bg==",
+        "youtube": "https://www.youtube.com/@paupaucoin",
+        "website": "https://paupau.xo.je/",
+        "coinmarketcap" :"https://coinmarketcap.com/community/profile/paupaucoin"
+      }
+    }
