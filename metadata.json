@@ -1,26 +1,24 @@
-    {
-      "chainId": 101,
-      "address": "eH9dzEbXBvUspuvMZgapANRYmcW625mpzkf1Lhz2txC",
-      "symbol": "PAU",
-      "name": "Paupau",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/paupaucoins/crypto/refs/heads/main/logo.png",
-      "tags": [
-        "social-token",
-        "PAU",
-        "utility-token",
-         "NFT",
-        "Metaverse",
-        "ethereum",
-        "solana",
-        "bitcoin"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/6jvvefv6Q",
-        "twitter": "https://x.com/PAUPAUCOIN",
-        "instagram": "https://www.instagram.com/paupaucoin?igsh=MWhmMHZxN29leDQ5bg==",
-        "youtube": "https://www.youtube.com/@paupaucoin",
-        "website": "https://paupau.xo.je/",
-        "coinmarketcap" :"https://coinmarketcap.com/community/profile/paupaucoin"
+{
+  "name": "Paupau",
+  "symbol": "PAU",
+  "description": "Paupau social utility token on Solana.",
+  "image": "https://raw.githubusercontent.com/paupaucoins/crypto/refs/heads/main/logo.png",
+  "external_url": "https://paupau.xo.je/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paupaucoins/crypto/refs/heads/main/logo.png",
+        "type": "image/png"
       }
-    }
+    ],
+    "category": "fungible"
+  },
+  "extensions": {
+    "discord": "https://discord.gg/6jvvefv6Q",
+    "twitter": "https://x.com/PAUPAUCOIN",
+    "instagram": "https://www.instagram.com/paupaucoin?igsh=MWhmMHZxN29leDQ5bg==",
+    "youtube": "https://www.youtube.com/@paupaucoin",
+    "website": "https://paupau.xo.je/",
+    "coinmarketcap": "https://coinmarketcap.com/community/profile/paupaucoin"
+  }
+}
